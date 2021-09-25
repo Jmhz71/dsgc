@@ -154,7 +154,7 @@ http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/144062svQeyx2rY
 
 #EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/viva.png" group-title="VARIEDADES",VIVA 4K
 
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14444ADES",
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/16764
 
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/mtv.png" group-title="MUSICA&ENTR",MTV 4K
 
