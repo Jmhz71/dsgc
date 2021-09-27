@@ -1,165 +1,55 @@
-EXTM3U
-
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICK 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nick.png" group-title="INFANTIS",NICK 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14411
-
-#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="DISNEY CHANNEL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14413
-
-#EXTINF:-1 tvg-id="DISNEYXD" tvg-name="DISNEY XD 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneyxd.png" group-title="INFANTIS",DISNEY XD 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/108
-
-#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JR 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneyjr.png" group-title="INFANTIS",DISNEY JR 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14414
-
-#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoveykids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14415
-
-#EXTINF:-1 tvg-id="NATGEOKIDS" tvg-name="NAT GEO KIDS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/natgeokids.png" group-title="INFANTIS",NAT GEO KIDS 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14416
-
-#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cartoonnetwork.png" group-title="INFANTIS",CARTOON NETWORK 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14417
-
-#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/boomerang.png" group-title="INFANTIS",BOOMERANG 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14418
-
-#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/babytv.png" group-title="INFANTIS",BABY TV 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14419
-
-#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gloob.png" group-title="INFANTIS",GLOOB 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14420
-
-#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globinho.png" group-title="INFANTIS",GLOOBINHO 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14421
-
-#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tooncast.png" group-title="INFANTIS",TOONCAST 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14422
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tnt.png" group-title="FILMES E SERIES",TNT 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14374
-
-#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/space.png" group-title="FILMES E SERIES",SPACE 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14376
-
-#EXTINF:-1 tvg-id="GLOBO" tvg-name="FOX 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/fox.png" group-title="FILMES E SERIES",FOX 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14379
-
-#EXTINF:-1 tvg-id="FX" tvg-name="FX 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/fx.png" group-title="FILMES E SERIES",FX 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14381
-
-#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TC ACTION 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcaction.png" group-title="FILMES E SERIES",TC ACTION 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14382
-
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TC PREMIUM 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcpremium.png" group-title="FILMES E SERIES",TC PREMIUM 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14383
-
-#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TC PIPOCA 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcpipoca.png" group-title="FILMES E SERIES",TC PIPOCA 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14384
-
-#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TC TOUCH 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tctouch.png" group-title="FILMES E SERIES",TC TOUCH 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14385
-
-#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TC FUN 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcfun.png" group-title="FILMES E SERIES",TC FUN 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14386
-
-#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TC CULT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tccult.png" group-title="FILMES E SERIES",TC CULT 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14387
-
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbo.png" group-title="FILMES E SERIES",HBO 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14388
-
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbo2.png" group-title="FILMES E SERIES",HBO2 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14389
-
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hboplus.png" group-title="FILMES E SERIES",HBO PLUS 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14390
-
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14391
-
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14392
-
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hboxtreme.png" group-title="FILMES E SERIES",HBO MUNDI 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14393
-
-#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbopop.png" group-title="FILMES E SERIES",HBO POP 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14394
-
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hboxtreme.png" group-title="FILMES E SERIES",HBO XTREME 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14395
-
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cinemax.png" group-title="FILMES E SERIES",CINEMAX 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14396
-
-#EXTINF:-1 tvg-id="SONY" tvg-name="SONY 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sony.png" group-title="FILMES E SERIES",SONY 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14399
-
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/megapix.png" group-title="FILMES E SERIES",MEGAPIX 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14401
-
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/paramount.png" group-title="FILMES E SERIES",PARAMOUNT 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14402
-
-#EXTINF:-1 tvg-id="UNIVERSAL" tvg-name="UNIVERSAL TV 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/universaltv.png" group-title="FILMES E SERIES",UNIVERSAL TV 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14403
-
-#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14404
-
-#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="COMEDY CENTRAL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14405
-
-#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/144062svQeyx2rYWrh/14432
-
-#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/viva.png" group-title="VARIEDADES",VIVA 4K
-
-http://xcui.vitvabc.xyz:8880/287994000027/287994000027/16764
-
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/mtv.png" group-title="MUSICA&ENTR",MTV 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14425
-
-#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/multishow.png" group-title="MUSICA&ENTR",MULTISHOW 4K
-
-http://massud.homelinux.com:80/UNt7LMt674zpHKu3/8iu2svQeyx2rYWrh/14424
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/boomerangb.png" group-title="CANAIS: HD",Boomerang HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16699
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/sony.png" group-title="CANAIS: HD",Canal Sony HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16700
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e3f342cb93eb9c19cb186ffd3ce94cef.png" group-title="CANAIS: HD",Cartoon Network HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16701
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS: HD",CINEMAX HD
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16702
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/531a36f4089a5f65b28bedb90dc00117.png" group-title="CANAIS: HD",COMEDY CENTRAL HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16704
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/discoverykidshd.png" group-title="CANAIS: HD",Discovery Kids HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16707
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disneyhd.png" group-title="CANAIS: HD",Disney Channel HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16713
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disneyjuniorb.png" group-title="CANAIS: HD",Disney Junior HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16714
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/disneyxd.png" group-title="CANAIS: HD",Disney XD HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16715
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f86427073efd142c6d56d817ddbb556e.png" group-title="CANAIS: HD",ESPN Brasil HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16717
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/espn.png" group-title="CANAIS: HD",ESPN HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16718
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/09f75ae3398bd8390700f4704b9ebea8.png" group-title="CANAIS: HD",STAR CHANNEL HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16720
+#EXTINF:-1 tvg-id="" tvg-name="FX HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6701d32367fa57ebf2a1c8ec8730badc.png" group-title="CANAIS: HD",FX HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16726
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: HD",Globo TV Bahia HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="CANAIS: HD",MTV HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16738
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/9ad5cd04c24c03b9f8f2d4d80489513e.png" group-title="CANAIS: HD",Multishow HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16740
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/10a2cfd71d2b73deb603d429e742f71d.png" group-title="CANAIS: HD",Nickelodeon HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16745
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/paramount.png" group-title="CANAIS: HD",Paramount Channel HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16746
+#EXTINF:-1 tvg-id="" tvg-name="Space HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/596174fc20df4264ee4fa6e2b35e5022.png" group-title="CANAIS: HD",Space HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16750
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="CANAIS: HD",Telecine Fun HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16756
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: HD",Telecine Pipoca HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16757
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tcpremiumb.png" group-title="CANAIS: HD",Telecine Premium HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16758
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tctouchb.png" group-title="CANAIS: HD",Telecine Touch HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16759
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS: HD",TNT HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16760
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sies HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/tntseries.png" group-title="CANAIS: HD",TNT Sies HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16761
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6fb0584a7141a9c2d339fb2c37aa485d.png" group-title="CANAIS: HD",Tooncast HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16762
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/viva2018.png" group-title="CANAIS: HD",Viva HD+
+http://xcui.vitvabc.xyz:8880/2879940038ec/2879940038ec/16764
