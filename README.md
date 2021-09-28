@@ -53,8 +53,11 @@ http://vipeiptv.com:25461/camila2020/camila2020/856353
 #EXTINF:-1 tvg-id="HBO+ HD" tvg-name="HBO+ FHD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/hboplus.png" group-title="CANAIS HBO",HBO+ FHD
 http://vipeiptv.com:25461/camila2020/camila2020/856357
 
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL FHD
-http://vipeiptv.com:25461/camila2020/camila2020/856661
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL SD
+http://vipeiptv.com:25461/camila2020/camila2020/856657
+
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="CANAIS ENTRETENIMENTO",COMEDY CENTRAL HD
+http://vipeiptv.com:25461/camila2020/camila2020/856659
 
 #EXTINF:-1 tvg-id="" tvg-name="Globo TV Bahia FHD" tvg-logo="" group-title="GLOBOS BAHIA",Globo TV Bahia FHD
 http://vipeiptv.com:25461/camila2020/camila2020/980397
@@ -65,3 +68,26 @@ http://vipeiptv.com:25461/camila2020/camila2020/981388
 #EXTINF:-1 tvg-id="" tvg-name="STAR+ HD" tvg-logo="http://vipeiptv.com:25461/images/30728d856828a694746806d93a9670ba.jpg" group-title="ESPORTE",STAR+ HD
 http://vipeiptv.com:25461/camila2020/camila2020/981389
 
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY SD" tvg-logo="https://pt.wikipedia.org/wiki/Sony_Channel#/media/Ficheiro:Sony_Channel_Logo.png" group-title="CANAIS ENTRETENIMENTO",CANAL SONY SD
+http://vipeiptv.com:25461/camila2020/camila2020/856653
+
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://pt.wikipedia.org/wiki/Sony_Channel#/media/Ficheiro:Sony_Channel_Logo.png" group-title="CANAIS ENTRETENIMENTO",CANAL SONY HD
+http://vipeiptv.com:25461/camila2020/camila2020/856654
+
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="CANAIS ENTRETENIMENTO",MTV SD
+http://vipeiptv.com:25461/camila2020/camila2020/856701
+
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/LOGO_MTV_BRASIL.png" group-title="CANAIS ENTRETENIMENTO",MTV HD
+http://vipeiptv.com:25461/camila2020/camila2020/856703
+
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="CANAIS ENTRETENIMENTO",MULTISHOW SD
+http://vipeiptv.com:25461/camila2020/camila2020/856706
+
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="CANAIS ENTRETENIMENTO",MULTISHOW HD
+http://vipeiptv.com:25461/camila2020/camila2020/856709
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA SD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA SD
+http://vipeiptv.com:25461/camila2020/camila2020/856736
+
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="http://netflix.akamaihd.org/logos_pub/ch/Canal_Viva_logo.png" group-title="CANAIS ENTRETENIMENTO",VIVA HD
+http://vipeiptv.com:25461/camila2020/camila2020/856738
